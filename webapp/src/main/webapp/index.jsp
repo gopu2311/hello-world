@@ -186,7 +186,7 @@
   </style>
 </head>
 <body>
-  <h1>CSS-Only Floating Labels</h1>
+  <h1>Fill the Form</h1>
   <div class="container">
     <div class="cta-form">
       <h2>Fill out the form!</h2> 
